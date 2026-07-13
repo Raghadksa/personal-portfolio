@@ -1,4 +1,5 @@
 # Raghad Alhamad - Portfolio
+[![Live Demo](https://img.shields.io/badge/Live-Portfolio-blue?style=for-the-badge)](https://raghadksa.github.io/personal-portfolio/)
 
 Welcome to my personal portfolio website.
 
@@ -50,11 +51,17 @@ A relational database project for managing library resources, users, and borrowi
 - SQL
 - Git & GitHub
 - Figma
+صثا
 
-## 📫 Contact
+
+## صثلاس
+
+##📫 Contact
+
+ةغ صثلاسهف
 
 Email: Raghad.alhamd@gmail.com
-
+لهعزغفم8هلاةىتال
 LinkedIn:
 https://www.linkedin.com/in/raghad-alhamad-35676a33a
 
